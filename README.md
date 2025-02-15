@@ -15,6 +15,3 @@ Here are some ideas to get you started:
 
 ## 🚀 Minhas Tecnologias
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snttsz&layout=compact)
-
-## 📊 Estatísticas do GitHub
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=snttsz&show_icons=true&theme=dracula)
